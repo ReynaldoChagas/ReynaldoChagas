@@ -1,6 +1,6 @@
 # 🌟 Olá, seja bem vindo ao meu portfólio de projetos! 🌟
 
-### Neste repositório, você vai encontrar projetos pessoais e de cursos que realizei na área de Data Analysis 📚
+### Neste repositório, você vai encontrar projetos pessoais e de cursos que realizei na área de Automação e Data Analysis 📚
 
 #### Até o momento, tenho projetos que aplicam conhecimentos sobre:
 - Python 🐍
