@@ -6,6 +6,7 @@
 - Python 🐍
 - Selenium 💻
 - Pandas 🐼
+- Streamlit 👑
 
 #### Irei disponibilizar abaixo meus contatos, sinta-se à vontade para me mandar uma mensagem através de qualquer um deles 😃
 
